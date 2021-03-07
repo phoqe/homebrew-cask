@@ -1,4 +1,4 @@
-# Phoqe Cask
+# phoqe/cask
 
 ## How do I install these formulae?
 
